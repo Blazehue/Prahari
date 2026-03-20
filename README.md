@@ -657,8 +657,11 @@ The following are explicitly excluded per the DEVTrails 2026 problem statement a
 
 **Repository:** github.com/Blazehue/prahari *(update before submission)*
 **Hackathon:** Guidewire DEVTrails 2026
-**Phase 1 Submission:** March 20, 2026
-**Team Members:-** 
+**Phase 1 Submission:** 
+March 20, 2026
+
+**Team Members:-**
+
 Sanskriti Rastogi
 Team Leader
 
@@ -673,6 +676,7 @@ Member
 
 Rajat Pandey
 Memebr
----
+
+--
 
 *Prahari — A sentinel for every shift.*
