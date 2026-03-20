@@ -677,6 +677,4 @@ Member
 Rajat Pandey
 Memebr
 
---
-
 *Prahari — A sentinel for every shift.*
